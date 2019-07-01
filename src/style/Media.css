@@ -1,0 +1,10 @@
+.ItemDetails img, .ItemDetails video{
+    width: auto;
+    height: 500px;
+    display: block;
+    margin: 50px auto;
+}
+.ItemDetails audio{
+    display: block;
+    margin: 50px auto;
+}
